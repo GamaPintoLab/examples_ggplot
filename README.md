@@ -8,7 +8,7 @@ Some plots that I created for own interest that might be usefull for you as well
 [[https://raw.githubusercontent.com/GamaPintoLab/examples_ggplot/norm_density_plot.png]]
 
 
-![norm_density_plot](/Documents/R_work/examples_ggplot/input data/norm_density_plot.png)
+![norm_density_plot](/Users/Marina/Documents/R_work/examples_ggplot/norm_density_plot.png)
 
 
 
